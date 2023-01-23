@@ -1,0 +1,3 @@
+C:/Users/ondra/Documents/KeepAss/IT1-Vosa/sbirka3738/cmake-build-debug/CMakeFiles/sbirka3738.dir
+C:/Users/ondra/Documents/KeepAss/IT1-Vosa/sbirka3738/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ondra/Documents/KeepAss/IT1-Vosa/sbirka3738/cmake-build-debug/CMakeFiles/rebuild_cache.dir
